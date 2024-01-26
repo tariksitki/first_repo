@@ -1,0 +1,29 @@
+#main {
+    background-color: bisque;
+}
+
+#top {
+    display: flex;
+    width: 100%;
+}
+
+
+#top-left {
+    background-color: brown;
+    width: 40%;
+    height: 100px;
+}
+
+#top-right {
+    background-color: blue;
+    width: 40%;
+    margin-left: 50px;
+}
+
+#button-left {
+    background-color: chocolate;
+}
+
+#button-right {
+    background-color: blueviolet;
+}
